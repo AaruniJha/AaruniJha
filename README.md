@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AaruniJha
-- 👀 I’m interested in Data Analysis
+- 👀 I’m a Data Analysis enthusiast
 - 🌱 I’m currently learning Python, Power BI.
-- 💞️ I’m looking to collaborate on data analysis projects
+- 💞️ I’m looking to explore more tools that can make data analysis super easy. 
 - 📫 How to reach me email: jha.aa@northeastern.edu
 
 <!---
